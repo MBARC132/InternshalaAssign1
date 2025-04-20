@@ -11,7 +11,7 @@
 
 1. Clone the repository:
 bash
-git clone 
+git clone https://github.com/MBARC132/InternshalaAssign1.git 
 cd vite-project
 #.Install dependencies: 
 ->npm install
